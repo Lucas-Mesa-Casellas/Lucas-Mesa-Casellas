@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Mesa Casellas
 
-<!--
-**Lucas-Mesa-Casellas/Lucas-Mesa-Casellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science student (ESILV Paris + Cranfield University UK).  
+Passionate about Machine Learning, Reinforcement Learning, and Applied AI systems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- **RL Crypto Trading Bot** (Freqtrade + Hyperopt + RL module)
+- **SuperCoach**: Football analytics project for tactical insights & performance recommendations
+- ML side projects (classification, regression, real-world data problems)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Looking for
+An **Applied AI / Machine Learning internship starting April 2026**, ideally in:
+- AI research / applied ML
+- Data science
+- MLOps / model deployment
+- Sports analytics
+- Financial AI systems
+
+## 🧠 Skills
+- Python, Pandas, Numpy, Scikit-Learn  
+- Machine Learning & Reinforcement Learning  
+- Data visualization (Matplotlib, Seaborn)  
+- Freqtrade (bot creation, hyperopt, backtesting)  
+- GitHub, Git, Jupyter
+
+## 🌍 Locations
+France • UK • Spain • Qatar
+
+## 🔗 Links
+- 👔 LinkedIn: https://www.linkedin.com/in/lucas-mesa-casellas/
+- 🤖 GitHub: https://github.com/Lucas-Mesa-Casellas
